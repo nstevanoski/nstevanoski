@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **MongoDB** **Express** **React JS** **Angular** **Node JS**
 - 📫 How to reach me: stevanoskinikolaa@gmail.com
-- 😄 Pronouns: Pronouns: I, you, he, it, they, this
+- 😄 Pronouns: I, you, he, it, they, this
 - ⚡ Fun fact: I spend almost 5-6 hours Learning everyday
 
 
