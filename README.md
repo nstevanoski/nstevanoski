@@ -6,7 +6,7 @@
 
 # Hi guys 👋  I'm Nikola Stevanoski
 
-- 💬 Ask me about **MongoDB**, **Express**, **React JS**, **Angular** & **Node JS**
+- 💬 Ask me about **React JS**, **Angular**, **MongoDB**, **Express** & **Node JS**
 - 📫 How to reach me: stevanoskinikolaa@gmail.com
 - 😄 Pronouns: I, you, he, it, they, this
 - ⚡ Fun fact: I spend almost 5-6 hours Learning everyday
