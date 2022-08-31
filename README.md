@@ -11,6 +11,6 @@
 
 <br/>
 <div>
-  Linkedin: <a href="https://linkedin.com/in/nstevanoski">Nikola Stevanoski</a>
+  Linkedin: <a href="https://linkedin.com/in/nstevanoski" target="_blank">Nikola Stevanoski</a>
 </div>
 
