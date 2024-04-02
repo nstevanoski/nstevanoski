@@ -1,6 +1,4 @@
 # Hi guys 👋
-
-- 💬 Ask me about **React JS**, **Angular**, **Ionic (Angular)**, **MongoDB**, **MySQL**, **Firebase**, **Express** & **Node JS**
 - 📫 How to reach me: https://nstevanoski.com
 
 <h3 align="left">Languages and Tools:</h3>
